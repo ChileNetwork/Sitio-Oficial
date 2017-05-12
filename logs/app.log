@@ -1,0 +1,332 @@
+[2017-05-01 03:25:43] slim-app.INFO: Slim-Skeleton '/' route [] {"uid":"10d0d56"}
+[2017-05-01 03:26:15] slim-app.INFO: Slim-Skeleton '/' route [] {"uid":"80a32a4"}
+[2017-05-01 03:26:22] slim-app.INFO: Slim-Skeleton '/' route [] {"uid":"b7647af"}
+[2017-05-01 03:27:18] slim-app.INFO: Slim-Skeleton '/' route [] {"uid":"17119b4"}
+[2017-05-01 03:29:14] slim-app.INFO: Slim-Skeleton '/' route [] {"uid":"9cef157"}
+[2017-05-01 03:29:24] slim-app.INFO: Slim-Skeleton '/' route [] {"uid":"47fbd5f"}
+[2017-05-01 03:29:46] slim-app.INFO: Slim-Skeleton '/' route [] {"uid":"6768ce8"}
+[2017-05-01 03:29:52] slim-app.INFO: Slim-Skeleton '/' route [] {"uid":"61dc827"}
+[2017-05-01 03:29:58] slim-app.INFO: Slim-Skeleton '/' route [] {"uid":"3a610b8"}
+[2017-05-01 03:30:03] slim-app.INFO: Slim-Skeleton '/' route [] {"uid":"ae984cc"}
+[2017-05-01 03:30:10] slim-app.INFO: Slim-Skeleton '/' route [] {"uid":"4d18fe6"}
+[2017-05-01 03:30:32] slim-app.INFO: Slim-Skeleton '/' route [] {"uid":"8f523a6"}
+[2017-05-01 03:31:31] slim-app.INFO: Slim-Skeleton '/' route [] {"uid":"a857e4d"}
+[2017-05-01 03:32:59] slim-app.INFO: Slim-Skeleton '/' route [] {"uid":"6266bb5"}
+[2017-05-01 03:33:10] slim-app.INFO: Slim-Skeleton '/' route [] {"uid":"6d282e6"}
+[2017-05-01 03:36:34] slim-app.INFO: Slim-Skeleton '/' route [] {"uid":"9bf4830"}
+[2017-05-01 03:37:55] slim-app.INFO: Slim-Skeleton '/' route [] {"uid":"04d0c6c"}
+[2017-05-01 03:38:02] slim-app.INFO: Slim-Skeleton '/' route [] {"uid":"c1f90ca"}
+[2017-05-01 03:38:11] slim-app.INFO: Slim-Skeleton '/' route [] {"uid":"e24debb"}
+[2017-05-02 04:36:16] slim-app.INFO: Slim-Skeleton '/' route [] {"uid":"f37561f"}
+[2017-05-02 04:36:21] slim-app.INFO: Slim-Skeleton '/' route [] {"uid":"3a60adf"}
+[2017-05-02 05:03:23] slim-app.INFO: Slim-Skeleton '/' route [] {"uid":"74343f3"}
+[2017-05-01 10:17:24] slim-app.INFO: Slim-Skeleton '/' route [] {"uid":"8771f8d"}
+[2017-05-01 10:17:31] slim-app.INFO: Slim-Skeleton '/' route [] {"uid":"d98b98b"}
+[2017-05-01 10:19:07] slim-app.INFO: Slim-Skeleton '/' route [] {"uid":"c6d8057"}
+[2017-05-01 10:19:40] slim-app.INFO: Slim-Skeleton '/' route [] {"uid":"2a3eab0"}
+[2017-05-01 10:19:42] slim-app.INFO: Slim-Skeleton '/' route [] {"uid":"b59a393"}
+[2017-05-01 10:19:49] slim-app.INFO: Slim-Skeleton '/' route [] {"uid":"e5bd01e"}
+[2017-05-01 10:20:22] slim-app.INFO: Slim-Skeleton '/' route [] {"uid":"b7f4fa8"}
+[2017-05-01 10:21:03] slim-app.INFO: Slim-Skeleton '/' route [] {"uid":"3a8262c"}
+[2017-05-01 10:22:39] slim-app.INFO: Slim-Skeleton '/' route [] {"uid":"6b3c386"}
+[2017-05-01 10:22:47] slim-app.INFO: Slim-Skeleton '/' route [] {"uid":"ef84487"}
+[2017-05-01 10:22:54] slim-app.INFO: Slim-Skeleton '/' route [] {"uid":"b8c09ae"}
+[2017-05-01 10:23:12] slim-app.INFO: Slim-Skeleton '/' route [] {"uid":"4b2e257"}
+[2017-05-01 10:23:12] slim-app.INFO: Slim-Skeleton '/' route [] {"uid":"9852d7f"}
+[2017-05-01 10:25:19] slim-app.INFO: Slim-Skeleton '/' route [] {"uid":"567dc3b"}
+[2017-05-01 10:27:06] slim-app.INFO: Slim-Skeleton '/' route [] {"uid":"f5f9342"}
+[2017-05-01 10:27:44] slim-app.INFO: Slim-Skeleton '/' route [] {"uid":"53ee5b1"}
+[2017-05-01 10:28:07] slim-app.INFO: Slim-Skeleton '/' route [] {"uid":"fb1fdda"}
+[2017-05-01 10:28:07] slim-app.INFO: Slim-Skeleton '/' route [] {"uid":"897e292"}
+[2017-05-01 10:30:16] slim-app.INFO: Slim-Skeleton '/' route [] {"uid":"70e84d8"}
+[2017-05-01 10:30:26] slim-app.INFO: Slim-Skeleton '/' route [] {"uid":"9d91646"}
+[2017-05-01 10:31:01] slim-app.INFO: Slim-Skeleton '/' route [] {"uid":"e35ebcc"}
+[2017-05-01 10:35:12] slim-app.INFO: Slim-Skeleton '/' route [] {"uid":"132b6f2"}
+[2017-05-01 12:11:28] slim-app.INFO: Slim-Skeleton '/' route [] {"uid":"4c0aed0"}
+[2017-05-01 12:11:33] slim-app.INFO: Slim-Skeleton '/' route [] {"uid":"29e4ec4"}
+[2017-05-01 12:27:11] slim-app.INFO: Slim-Skeleton '/' route [] {"uid":"29006b4"}
+[2017-05-01 13:17:13] slim-app.INFO: Slim-Skeleton '/' route [] {"uid":"7f4d9d1"}
+[2017-05-01 13:24:58] slim-app.INFO: Slim-Skeleton '/' route [] {"uid":"c73945e"}
+[2017-05-01 13:32:00] slim-app.INFO: Slim-Skeleton '/' route [] {"uid":"bf8fbd4"}
+[2017-05-01 13:33:51] slim-app.INFO: Slim-Skeleton '/' route [] {"uid":"33fa54b"}
+[2017-05-01 13:39:58] slim-app.INFO: Slim-Skeleton '/' route [] {"uid":"0a2a06c"}
+[2017-05-01 13:42:57] slim-app.INFO: Slim-Skeleton '/' route [] {"uid":"72dc9e6"}
+[2017-05-01 13:43:02] slim-app.INFO: Slim-Skeleton '/' route [] {"uid":"8cb6342"}
+[2017-05-01 13:56:11] slim-app.INFO: Slim-Skeleton '/' route [] {"uid":"8b81cb1"}
+[2017-05-01 14:20:25] slim-app.INFO: Slim-Skeleton '/' route [] {"uid":"5ce5c31"}
+[2017-05-01 15:18:56] slim-app.INFO: Slim-Skeleton '/' route [] {"uid":"a755b95"}
+[2017-05-01 15:41:52] slim-app.INFO: Slim-Skeleton '/' route [] {"uid":"7b05b06"}
+[2017-05-01 15:41:52] slim-app.INFO: Slim-Skeleton '/' route [] {"uid":"f095a41"}
+[2017-05-01 15:42:03] slim-app.INFO: Slim-Skeleton '/' route [] {"uid":"1bf6a87"}
+[2017-05-01 15:42:03] slim-app.INFO: Slim-Skeleton '/' route [] {"uid":"067d497"}
+[2017-05-01 15:46:16] slim-app.INFO: Slim-Skeleton '/' route [] {"uid":"432b16d"}
+[2017-05-01 16:01:37] slim-app.INFO: Slim-Skeleton '/' route [] {"uid":"88b0192"}
+[2017-05-01 16:02:00] slim-app.INFO: Slim-Skeleton '/' route [] {"uid":"d64d7ff"}
+[2017-05-01 16:21:25] slim-app.INFO: Slim-Skeleton '/' route [] {"uid":"79406fb"}
+[2017-05-01 16:21:33] slim-app.INFO: Slim-Skeleton '/' route [] {"uid":"4abcc8c"}
+[2017-05-01 16:22:00] slim-app.INFO: Slim-Skeleton '/' route [] {"uid":"c088e5f"}
+[2017-05-01 16:45:21] slim-app.INFO: Slim-Skeleton '/' route [] {"uid":"792ab59"}
+[2017-05-01 16:48:26] slim-app.INFO: Slim-Skeleton '/' route [] {"uid":"49ea424"}
+[2017-05-01 16:49:24] slim-app.INFO: ChileNetwork: Desarrllo Web '/desarrollo-web' route [] {"uid":"cdddf8e"}
+[2017-05-01 16:49:32] slim-app.INFO: ChileNetwork: Desarrllo Web '/desarrollo-web' route [] {"uid":"59d80e0"}
+[2017-05-01 16:49:57] slim-app.INFO: ChileNetwork: Desarrllo Web '/desarrollo-web' route [] {"uid":"cb0b45e"}
+[2017-05-01 16:50:56] slim-app.INFO: ChileNetwork: Home '/' route [] {"uid":"649c313"}
+[2017-05-01 16:51:18] slim-app.INFO: ChileNetwork: Home '/' route [] {"uid":"f75300a"}
+[2017-05-01 16:51:20] slim-app.INFO: ChileNetwork: Home '/' route [] {"uid":"aa57898"}
+[2017-05-01 16:51:27] slim-app.INFO: ChileNetwork: Desarrllo Web '/desarrollo-web' route [] {"uid":"3ee60d3"}
+[2017-05-01 16:51:30] slim-app.INFO: ChileNetwork: Home '/' route [] {"uid":"d702d4e"}
+[2017-05-01 16:51:58] slim-app.INFO: ChileNetwork: Home '/' route [] {"uid":"0fb67e3"}
+[2017-05-01 16:52:03] slim-app.INFO: ChileNetwork: Desarrllo Web '/desarrollo-web' route [] {"uid":"bcd1344"}
+[2017-05-01 16:52:05] slim-app.INFO: ChileNetwork: Home '/' route [] {"uid":"1901c90"}
+[2017-05-01 16:52:32] slim-app.INFO: ChileNetwork: Home '/' route [] {"uid":"dab05d7"}
+[2017-05-01 16:53:47] slim-app.INFO: ChileNetwork: Home '/' route [] {"uid":"ece3beb"}
+[2017-05-01 16:53:49] slim-app.INFO: ChileNetwork: Home '/' route [] {"uid":"15a40dd"}
+[2017-05-01 16:53:50] slim-app.INFO: ChileNetwork: Desarrllo Web '/desarrollo-web' route [] {"uid":"780481e"}
+[2017-05-01 16:53:52] slim-app.INFO: ChileNetwork: Home '/' route [] {"uid":"2d2691b"}
+[2017-05-01 16:53:53] slim-app.INFO: ChileNetwork: Desarrllo Web '/desarrollo-web' route [] {"uid":"30e7a7d"}
+[2017-05-01 16:53:55] slim-app.INFO: ChileNetwork: Home '/' route [] {"uid":"274ec30"}
+[2017-05-01 16:54:04] slim-app.INFO: ChileNetwork: Desarrllo Web '/desarrollo-web' route [] {"uid":"1d30a59"}
+[2017-05-01 16:54:16] slim-app.INFO: ChileNetwork: Home '/' route [] {"uid":"696c646"}
+[2017-05-01 16:55:13] slim-app.INFO: ChileNetwork: Home '/' route [] {"uid":"eaffc2a"}
+[2017-05-01 16:55:24] slim-app.INFO: ChileNetwork: Desarrllo Web '/desarrollo-web' route [] {"uid":"f0a1bf4"}
+[2017-05-01 16:55:25] slim-app.INFO: ChileNetwork: Home '/' route [] {"uid":"2e149c3"}
+[2017-05-01 16:56:05] slim-app.INFO: ChileNetwork: Home '/' route [] {"uid":"52503d3"}
+[2017-05-01 16:56:08] slim-app.INFO: ChileNetwork: Desarrllo Web '/desarrollo-web' route [] {"uid":"995daf3"}
+[2017-05-01 16:56:14] slim-app.INFO: ChileNetwork: Home '/' route [] {"uid":"9c07837"}
+[2017-05-01 19:24:39] slim-app.INFO: ChileNetwork: Home '/' route [] {"uid":"f32a8a2"}
+[2017-05-01 19:26:13] slim-app.INFO: ChileNetwork: Home '/' route [] {"uid":"54e653b"}
+[2017-05-01 20:42:05] slim-app.INFO: ChileNetwork: Home '/' route [] {"uid":"6bc3159"}
+[2017-05-01 20:42:27] slim-app.INFO: ChileNetwork: Home '/' route [] {"uid":"065f605"}
+[2017-05-01 20:42:30] slim-app.INFO: ChileNetwork: Desarrllo Web '/desarrollo-web' route [] {"uid":"b9452f6"}
+[2017-05-01 20:42:59] slim-app.INFO: ChileNetwork: Desarrllo Web '/desarrollo-web' route [] {"uid":"5ca9299"}
+[2017-05-01 21:38:05] slim-app.INFO: ChileNetwork: Home '/' route [] {"uid":"66c1acd"}
+[2017-05-01 22:44:22] slim-app.INFO: ChileNetwork: Home '/' route [] {"uid":"8be02bf"}
+[2017-05-01 23:04:33] slim-app.INFO: ChileNetwork: Home '/' route [] {"uid":"d049100"}
+[2017-05-02 01:52:53] slim-app.INFO: ChileNetwork: Home '/' route [] {"uid":"d1ad21e"}
+[2017-05-02 01:59:01] slim-app.INFO: ChileNetwork: Home '/' route [] {"uid":"b7041df"}
+[2017-05-02 02:43:46] slim-app.INFO: ChileNetwork: Home '/' route [] {"uid":"a10e054"}
+[2017-05-02 03:26:50] slim-app.INFO: ChileNetwork: Home '/' route [] {"uid":"4d92fa3"}
+[2017-05-02 05:18:38] slim-app.INFO: ChileNetwork: Home '/' route [] {"uid":"39ef161"}
+[2017-05-02 09:33:15] slim-app.INFO: ChileNetwork: Home '/' route [] {"uid":"3f01ee6"}
+[2017-05-02 12:04:41] slim-app.INFO: ChileNetwork: Home '/' route [] {"uid":"e22683b"}
+[2017-05-02 14:27:27] slim-app.INFO: ChileNetwork: Home '/' route [] {"uid":"c02ed96"}
+[2017-05-02 15:54:34] slim-app.INFO: ChileNetwork: Home '/' route [] {"uid":"89406ca"}
+[2017-05-02 22:27:29] slim-app.INFO: ChileNetwork: Home '/' route [] {"uid":"03085ab"}
+[2017-05-02 22:27:32] slim-app.INFO: ChileNetwork: Home '/' route [] {"uid":"1c16e32"}
+[2017-05-02 22:27:35] slim-app.INFO: ChileNetwork: Desarrllo Web '/desarrollo-web' route [] {"uid":"5bfd39f"}
+[2017-05-02 22:27:37] slim-app.INFO: ChileNetwork: Desarrllo Web '/desarrollo-web' route [] {"uid":"19e268a"}
+[2017-05-02 23:49:31] slim-app.INFO: ChileNetwork: Home '/' route [] {"uid":"8abb5d3"}
+[2017-05-03 00:15:40] slim-app.INFO: ChileNetwork: Home '/' route [] {"uid":"5909238"}
+[2017-05-03 02:33:07] slim-app.INFO: ChileNetwork: Home '/' route [] {"uid":"a7750ea"}
+[2017-05-03 04:58:13] slim-app.INFO: ChileNetwork: Home '/' route [] {"uid":"012cb1e"}
+[2017-05-03 06:33:47] slim-app.INFO: ChileNetwork: Home '/' route [] {"uid":"d70ff65"}
+[2017-05-03 08:35:48] slim-app.INFO: ChileNetwork: Home '/' route [] {"uid":"4174a99"}
+[2017-05-03 08:50:32] slim-app.INFO: ChileNetwork: Home '/' route [] {"uid":"3450b56"}
+[2017-05-03 11:44:07] slim-app.INFO: ChileNetwork: Home '/' route [] {"uid":"a2b59a5"}
+[2017-05-03 14:01:54] slim-app.INFO: ChileNetwork: Home '/' route [] {"uid":"8fab4cb"}
+[2017-05-03 16:24:17] slim-app.INFO: ChileNetwork: Home '/' route [] {"uid":"899a48b"}
+[2017-05-03 17:28:05] slim-app-chilenetwork.INFO: ChileNetwork: Home '/' route [] {"uid":"1e6a554"}
+[2017-05-03 18:16:16] slim-app-chilenetwork.INFO: ChileNetwork: Home '/' route [] {"uid":"639605d"}
+[2017-05-03 18:31:39] slim-app-chilenetwork.INFO: ChileNetwork: Home '/' route [] {"uid":"81d57f4"}
+[2017-05-03 19:55:20] slim-app-chilenetwork.INFO: ChileNetwork: Home '/' route [] {"uid":"9fb608b"}
+[2017-05-03 20:18:22] slim-app-chilenetwork.INFO: ChileNetwork: Home '/' route [] {"uid":"30c2da0"}
+[2017-05-04 01:53:52] slim-app-chilenetwork.INFO: ChileNetwork: Home '/' route [] {"uid":"0f4e926"}
+[2017-05-04 08:39:52] slim-app-chilenetwork.INFO: ChileNetwork: Home '/' route [] {"uid":"9b4fe12"}
+[2017-05-04 10:58:11] slim-app-chilenetwork.INFO: ChileNetwork: Home '/' route [] {"uid":"7c88e81"}
+[2017-05-04 11:11:22] slim-app-chilenetwork.INFO: ChileNetwork: Home '/' route [] {"uid":"b7eb828"}
+[2017-05-04 11:52:51] slim-app-chilenetwork.INFO: ChileNetwork: Home '/' route [] {"uid":"9e8e701"}
+[2017-05-04 12:46:10] slim-app-chilenetwork.INFO: ChileNetwork: Home '/' route [] {"uid":"1495243"}
+[2017-05-04 13:33:35] slim-app-chilenetwork.INFO: ChileNetwork: Home '/' route [] {"uid":"c557f88"}
+[2017-05-04 13:34:16] slim-app-chilenetwork.INFO: ChileNetwork: Home '/' route [] {"uid":"6adb404"}
+[2017-05-04 17:53:33] slim-app-chilenetwork.INFO: ChileNetwork: Home '/' route [] {"uid":"62ed373"}
+[2017-05-04 20:01:07] slim-app-chilenetwork.INFO: ChileNetwork: Home '/' route [] {"uid":"7a440fe"}
+[2017-05-04 20:13:33] slim-app-chilenetwork.INFO: ChileNetwork: Home '/' route [] {"uid":"58da4c0"}
+[2017-05-04 21:19:21] slim-app-chilenetwork.INFO: ChileNetwork: Home '/' route [] {"uid":"701fc73"}
+[2017-05-04 22:09:29] slim-app-chilenetwork.INFO: ChileNetwork: Home '/' route [] {"uid":"e3833b5"}
+[2017-05-04 22:14:47] slim-app-chilenetwork.INFO: ChileNetwork: Home '/' route [] {"uid":"be9e38f"}
+[2017-05-04 22:17:21] slim-app-chilenetwork.INFO: ChileNetwork: Desarrllo Web '/desarrollo-web' route [] {"uid":"85fed87"}
+[2017-05-04 22:19:56] slim-app-chilenetwork.INFO: ChileNetwork: Desarrllo Web '/desarrollo-web' route [] {"uid":"a533a6b"}
+[2017-05-04 22:24:18] slim-app-chilenetwork.INFO: ChileNetwork: Home '/' route [] {"uid":"a6732f9"}
+[2017-05-05 01:45:47] slim-app-chilenetwork.INFO: ChileNetwork: Home '/' route [] {"uid":"f48cfdd"}
+[2017-05-05 09:23:54] slim-app-chilenetwork.INFO: ChileNetwork: Home '/' route [] {"uid":"0c48070"}
+[2017-05-05 10:57:14] slim-app-chilenetwork.INFO: ChileNetwork: Desarrllo Web '/desarrollo-web' route [] {"uid":"5a67f9d"}
+[2017-05-05 11:48:03] slim-app-chilenetwork.INFO: ChileNetwork: Home '/' route [] {"uid":"6326535"}
+[2017-05-05 11:56:14] slim-app-chilenetwork.INFO: ChileNetwork: Home '/' route [] {"uid":"dc0244e"}
+[2017-05-05 13:23:28] slim-app-chilenetwork.INFO: ChileNetwork: Home '/' route [] {"uid":"b0c6836"}
+[2017-05-05 14:28:41] slim-app-chilenetwork.INFO: ChileNetwork: Home '/' route [] {"uid":"d86ebca"}
+[2017-05-05 17:19:02] slim-app-chilenetwork.INFO: ChileNetwork: Home '/' route [] {"uid":"8a780d8"}
+[2017-05-05 20:09:38] slim-app-chilenetwork.INFO: ChileNetwork: Home '/' route [] {"uid":"971b743"}
+[2017-05-05 20:09:40] slim-app-chilenetwork.INFO: ChileNetwork: Desarrllo Web '/desarrollo-web' route [] {"uid":"36d9b35"}
+[2017-05-05 20:09:46] slim-app-chilenetwork.INFO: ChileNetwork: Home '/' route [] {"uid":"445af19"}
+[2017-05-05 20:29:34] slim-app-chilenetwork.INFO: ChileNetwork: Home '/' route [] {"uid":"13c804a"}
+[2017-05-05 20:29:36] slim-app-chilenetwork.INFO: ChileNetwork: Desarrllo Web '/desarrollo-web' route [] {"uid":"1072fd6"}
+[2017-05-05 20:29:46] slim-app-chilenetwork.INFO: ChileNetwork: Home '/' route [] {"uid":"3b4fd27"}
+[2017-05-06 03:41:38] slim-app-chilenetwork.INFO: ChileNetwork: Home '/' route [] {"uid":"b01cc56"}
+[2017-05-06 03:41:39] slim-app-chilenetwork.INFO: ChileNetwork: Home '/' route [] {"uid":"fac50d6"}
+[2017-05-06 04:13:13] slim-app-chilenetwork.INFO: ChileNetwork: Home '/' route [] {"uid":"b5dfb96"}
+[2017-05-06 04:13:30] slim-app-chilenetwork.INFO: ChileNetwork: Home '/' route [] {"uid":"42a5f68"}
+[2017-05-06 04:13:32] slim-app-chilenetwork.INFO: ChileNetwork: Home '/' route [] {"uid":"b730ea2"}
+[2017-05-06 04:13:37] slim-app-chilenetwork.INFO: ChileNetwork: Home '/' route [] {"uid":"36738d3"}
+[2017-05-06 04:32:16] slim-app-chilenetwork.INFO: ChileNetwork: Home '/' route [] {"uid":"60f30ec"}
+[2017-05-06 04:46:13] slim-app-chilenetwork.INFO: ChileNetwork: Home '/' route [] {"uid":"bd971d5"}
+[2017-05-06 04:56:49] slim-app-chilenetwork.INFO: ChileNetwork: Home '/' route [] {"uid":"2a35aed"}
+[2017-05-06 05:02:10] slim-app-chilenetwork.INFO: ChileNetwork: Home '/' route [] {"uid":"dd62ad0"}
+[2017-05-06 05:03:11] slim-app-chilenetwork.INFO: ChileNetwork: Home '/' route [] {"uid":"5e94ccf"}
+[2017-05-06 05:03:56] slim-app-chilenetwork.INFO: ChileNetwork: Home '/' route [] {"uid":"19011dd"}
+[2017-05-06 05:04:02] slim-app-chilenetwork.INFO: ChileNetwork: Home '/' route [] {"uid":"32f9ff4"}
+[2017-05-06 05:04:25] slim-app-chilenetwork.INFO: ChileNetwork: Home '/' route [] {"uid":"69793dd"}
+[2017-05-06 05:04:46] slim-app-chilenetwork.INFO: ChileNetwork: Home '/' route [] {"uid":"4ce3a34"}
+[2017-05-06 05:04:47] slim-app-chilenetwork.INFO: ChileNetwork: Home '/' route [] {"uid":"e384c01"}
+[2017-05-06 05:04:50] slim-app-chilenetwork.INFO: ChileNetwork: Home '/' route [] {"uid":"da09855"}
+[2017-05-06 05:04:55] slim-app-chilenetwork.INFO: ChileNetwork: Home '/' route [] {"uid":"8965aa7"}
+[2017-05-06 05:04:57] slim-app-chilenetwork.INFO: ChileNetwork: Home '/' route [] {"uid":"990fdba"}
+[2017-05-06 05:04:58] slim-app-chilenetwork.INFO: ChileNetwork: Home '/' route [] {"uid":"d1fc5b7"}
+[2017-05-06 05:05:11] slim-app-chilenetwork.INFO: ChileNetwork: Home '/' route [] {"uid":"f36df1d"}
+[2017-05-06 05:05:19] slim-app-chilenetwork.INFO: ChileNetwork: Home '/' route [] {"uid":"41f86a5"}
+[2017-05-06 05:07:37] slim-app-chilenetwork.INFO: ChileNetwork: Home '/' route [] {"uid":"12816e5"}
+[2017-05-06 05:08:04] slim-app-chilenetwork.INFO: ChileNetwork: Home '/' route [] {"uid":"09ce23e"}
+[2017-05-06 05:08:11] slim-app-chilenetwork.INFO: ChileNetwork: Home '/' route [] {"uid":"3c38dab"}
+[2017-05-06 05:08:14] slim-app-chilenetwork.INFO: ChileNetwork: Home '/' route [] {"uid":"a6fbfcb"}
+[2017-05-06 05:08:21] slim-app-chilenetwork.INFO: ChileNetwork: Home '/' route [] {"uid":"832a3df"}
+[2017-05-06 05:08:24] slim-app-chilenetwork.INFO: ChileNetwork: Home '/' route [] {"uid":"1aeebe6"}
+[2017-05-06 05:08:26] slim-app-chilenetwork.INFO: ChileNetwork: Home '/' route [] {"uid":"2b2c6dc"}
+[2017-05-06 05:08:28] slim-app-chilenetwork.INFO: ChileNetwork: Home '/' route [] {"uid":"5762a33"}
+[2017-05-06 05:08:34] slim-app-chilenetwork.INFO: ChileNetwork: Home '/' route [] {"uid":"d8ac315"}
+[2017-05-06 05:09:00] slim-app-chilenetwork.INFO: ChileNetwork: Home '/' route [] {"uid":"0a22335"}
+[2017-05-06 05:11:04] slim-app-chilenetwork.INFO: ChileNetwork: Home '/' route [] {"uid":"5f0be7d"}
+[2017-05-06 05:11:15] slim-app-chilenetwork.INFO: ChileNetwork: Home '/' route [] {"uid":"f234d42"}
+[2017-05-06 05:11:38] slim-app-chilenetwork.INFO: ChileNetwork: Home '/' route [] {"uid":"8e850cb"}
+[2017-05-06 05:12:20] slim-app-chilenetwork.INFO: ChileNetwork: Home '/' route [] {"uid":"26c9c03"}
+[2017-05-06 05:12:22] slim-app-chilenetwork.INFO: ChileNetwork: Home '/' route [] {"uid":"1bcb908"}
+[2017-05-06 05:13:05] slim-app-chilenetwork.INFO: ChileNetwork: Home '/' route [] {"uid":"a25460a"}
+[2017-05-06 05:14:59] slim-app-chilenetwork.INFO: ChileNetwork: Home '/' route [] {"uid":"9e8e414"}
+[2017-05-06 05:15:40] slim-app-chilenetwork.INFO: ChileNetwork: Home '/' route [] {"uid":"e97f6a7"}
+[2017-05-06 05:15:46] slim-app-chilenetwork.INFO: ChileNetwork: Home '/' route [] {"uid":"edc3cbb"}
+[2017-05-06 05:15:52] slim-app-chilenetwork.INFO: ChileNetwork: Home '/' route [] {"uid":"50aeb7b"}
+[2017-05-06 05:17:19] slim-app-chilenetwork.INFO: ChileNetwork: Home '/' route [] {"uid":"b785c63"}
+[2017-05-06 05:17:48] slim-app-chilenetwork.INFO: ChileNetwork: Home '/' route [] {"uid":"750ffed"}
+[2017-05-06 05:18:55] slim-app-chilenetwork.INFO: ChileNetwork: Home '/' route [] {"uid":"3866d50"}
+[2017-05-06 05:21:18] slim-app-chilenetwork.INFO: ChileNetwork: Home '/' route [] {"uid":"06967ac"}
+[2017-05-06 05:24:17] slim-app-chilenetwork.INFO: ChileNetwork: Home '/' route [] {"uid":"007e5fa"}
+[2017-05-06 05:25:11] slim-app-chilenetwork.INFO: ChileNetwork: Home '/' route [] {"uid":"59da317"}
+[2017-05-06 05:25:17] slim-app-chilenetwork.INFO: ChileNetwork: Home '/' route [] {"uid":"87f9987"}
+[2017-05-06 05:25:29] slim-app-chilenetwork.INFO: ChileNetwork: Home '/' route [] {"uid":"c90a816"}
+[2017-05-06 05:26:14] slim-app-chilenetwork.INFO: ChileNetwork: Home '/' route [] {"uid":"035adbe"}
+[2017-05-06 05:26:24] slim-app-chilenetwork.INFO: ChileNetwork: Home '/' route [] {"uid":"cf5c4e5"}
+[2017-05-06 05:26:35] slim-app-chilenetwork.INFO: ChileNetwork: Home '/' route [] {"uid":"578a7ad"}
+[2017-05-06 05:26:41] slim-app-chilenetwork.INFO: ChileNetwork: Home '/' route [] {"uid":"05d8609"}
+[2017-05-06 05:26:43] slim-app-chilenetwork.INFO: ChileNetwork: Home '/' route [] {"uid":"6d13dcd"}
+[2017-05-06 05:26:48] slim-app-chilenetwork.INFO: ChileNetwork: Home '/' route [] {"uid":"a4e285c"}
+[2017-05-06 05:26:50] slim-app-chilenetwork.INFO: ChileNetwork: Home '/' route [] {"uid":"e98582c"}
+[2017-05-06 05:26:52] slim-app-chilenetwork.INFO: ChileNetwork: Home '/' route [] {"uid":"b232d22"}
+[2017-05-06 05:26:53] slim-app-chilenetwork.INFO: ChileNetwork: Home '/' route [] {"uid":"c90ffd7"}
+[2017-05-06 05:26:55] slim-app-chilenetwork.INFO: ChileNetwork: Home '/' route [] {"uid":"93cc8eb"}
+[2017-05-06 05:28:06] slim-app-chilenetwork.INFO: ChileNetwork: Home '/' route [] {"uid":"0d5ca55"}
+[2017-05-06 05:28:34] slim-app-chilenetwork.INFO: ChileNetwork: Home '/' route [] {"uid":"cbb9990"}
+[2017-05-06 05:28:40] slim-app-chilenetwork.INFO: ChileNetwork: Home '/' route [] {"uid":"24179ff"}
+[2017-05-06 05:28:53] slim-app-chilenetwork.INFO: ChileNetwork: Home '/' route [] {"uid":"64a4bbd"}
+[2017-05-06 05:42:36] slim-app-chilenetwork.INFO: ChileNetwork: Desarrllo Web '/desarrollo-web' route [] {"uid":"6ff85bc"}
+[2017-05-06 05:43:12] slim-app-chilenetwork.INFO: ChileNetwork: Desarrllo Web '/desarrollo-web' route [] {"uid":"e4a2438"}
+[2017-05-06 05:43:13] slim-app-chilenetwork.INFO: ChileNetwork: Desarrllo Web '/desarrollo-web' route [] {"uid":"041e09d"}
+[2017-05-06 05:51:01] slim-app-chilenetwork.INFO: ChileNetwork: Desarrllo Web '/desarrollo-web' route [] {"uid":"4426a06"}
+[2017-05-06 06:25:15] slim-app-chilenetwork.INFO: ChileNetwork: Home '/' route [] {"uid":"d4a80ff"}
+[2017-05-06 06:31:15] slim-app-chilenetwork.INFO: ChileNetwork: Home '/' route [] {"uid":"a81b747"}
+[2017-05-06 07:10:54] slim-app-chilenetwork.INFO: ChileNetwork: Home '/' route [] {"uid":"aebb8a2"}
+[2017-05-06 07:14:49] slim-app-chilenetwork.INFO: ChileNetwork: Home '/' route [] {"uid":"f0c4220"}
+[2017-05-06 07:14:52] slim-app-chilenetwork.INFO: ChileNetwork: Desarrllo Web '/desarrollo-web' route [] {"uid":"2bf9008"}
+[2017-05-06 07:14:54] slim-app-chilenetwork.INFO: ChileNetwork: Home '/' route [] {"uid":"c9295a4"}
+[2017-05-06 07:16:08] slim-app-chilenetwork.INFO: ChileNetwork: Home '/' route [] {"uid":"f403d2c"}
+[2017-05-06 07:16:23] slim-app-chilenetwork.INFO: ChileNetwork: Home '/' route [] {"uid":"5b828f9"}
+[2017-05-06 07:16:25] slim-app-chilenetwork.INFO: ChileNetwork: Desarrllo Web '/desarrollo-web' route [] {"uid":"194ac75"}
+[2017-05-06 07:16:28] slim-app-chilenetwork.INFO: ChileNetwork: Home '/' route [] {"uid":"b0e1595"}
+[2017-05-06 07:16:29] slim-app-chilenetwork.INFO: ChileNetwork: Home '/' route [] {"uid":"c774a97"}
+[2017-05-06 07:16:43] slim-app-chilenetwork.INFO: ChileNetwork: Home '/' route [] {"uid":"96d565d"}
+[2017-05-06 07:16:54] slim-app-chilenetwork.INFO: ChileNetwork: Home '/' route [] {"uid":"39de277"}
+[2017-05-06 07:17:20] slim-app-chilenetwork.INFO: ChileNetwork: Home '/' route [] {"uid":"70dd07e"}
+[2017-05-06 07:18:13] slim-app-chilenetwork.INFO: ChileNetwork: Home '/' route [] {"uid":"3430b26"}
+[2017-05-06 07:18:19] slim-app-chilenetwork.INFO: ChileNetwork: Home '/' route [] {"uid":"3ff9a3f"}
+[2017-05-06 07:18:23] slim-app-chilenetwork.INFO: ChileNetwork: Home '/' route [] {"uid":"7a261f4"}
+[2017-05-06 07:26:18] slim-app-chilenetwork.INFO: ChileNetwork: Home '/' route [] {"uid":"1a2e15d"}
+[2017-05-06 07:26:28] slim-app-chilenetwork.INFO: ChileNetwork: Home '/' route [] {"uid":"224844c"}
+[2017-05-06 07:32:06] slim-app-chilenetwork.INFO: ChileNetwork: Home '/' route [] {"uid":"f588c9e"}
+[2017-05-06 07:32:07] slim-app-chilenetwork.INFO: ChileNetwork: Home '/' route [] {"uid":"00ca73c"}
+[2017-05-06 07:32:31] slim-app-chilenetwork.INFO: ChileNetwork: Home '/' route [] {"uid":"cbb4aaf"}
+[2017-05-06 07:32:34] slim-app-chilenetwork.INFO: ChileNetwork: Home '/' route [] {"uid":"ecd0329"}
+[2017-05-06 07:32:42] slim-app-chilenetwork.INFO: ChileNetwork: Home '/' route [] {"uid":"1d96f14"}
+[2017-05-06 07:41:34] slim-app-chilenetwork.INFO: ChileNetwork: Home '/' route [] {"uid":"bb228c0"}
+[2017-05-06 07:41:34] slim-app-chilenetwork.INFO: ChileNetwork: Home '/' route [] {"uid":"cae7fba"}
+[2017-05-06 07:46:12] slim-app-chilenetwork.INFO: ChileNetwork: Home '/' route [] {"uid":"510b15c"}
+[2017-05-06 07:48:41] slim-app-chilenetwork.INFO: ChileNetwork: Home '/' route [] {"uid":"ee54341"}
+[2017-05-06 07:48:54] slim-app-chilenetwork.INFO: ChileNetwork: Home '/' route [] {"uid":"f1ba4ff"}
+[2017-05-06 07:48:57] slim-app-chilenetwork.INFO: ChileNetwork: Home '/' route [] {"uid":"25b52d1"}
+[2017-05-06 07:49:01] slim-app-chilenetwork.INFO: ChileNetwork: Home '/' route [] {"uid":"2ff34e0"}
+[2017-05-06 07:49:21] slim-app-chilenetwork.INFO: ChileNetwork: Home '/' route [] {"uid":"6205329"}
+[2017-05-06 07:49:33] slim-app-chilenetwork.INFO: ChileNetwork: Home '/' route [] {"uid":"aae2f7d"}
+[2017-05-06 07:50:01] slim-app-chilenetwork.INFO: ChileNetwork: Home '/' route [] {"uid":"12418a8"}
+[2017-05-06 07:50:04] slim-app-chilenetwork.INFO: ChileNetwork: Home '/' route [] {"uid":"446c66c"}
+[2017-05-06 07:50:14] slim-app-chilenetwork.INFO: ChileNetwork: Home '/' route [] {"uid":"cca67fa"}
+[2017-05-06 07:58:45] slim-app-chilenetwork.INFO: ChileNetwork: Home '/' route [] {"uid":"7120feb"}
+[2017-05-06 08:04:36] slim-app-chilenetwork.INFO: ChileNetwork: Home '/' route [] {"uid":"bf734da"}
+[2017-05-06 08:05:39] slim-app-chilenetwork.INFO: ChileNetwork: Home '/' route [] {"uid":"3558bb9"}
+[2017-05-06 08:07:09] slim-app-chilenetwork.INFO: ChileNetwork: Home '/' route [] {"uid":"adb3c2a"}
+[2017-05-06 08:09:06] slim-app-chilenetwork.INFO:  route: '/api-service'  [] {"uid":"52016b2"}
+[2017-05-06 08:09:39] slim-app-chilenetwork.INFO:  route: '/api-service'  [] {"uid":"ed033e6"}
+[2017-05-06 08:09:41] slim-app-chilenetwork.INFO:  route: '/api-service'  [] {"uid":"d98db45"}
+[2017-05-06 08:09:48] slim-app-chilenetwork.INFO: ChileNetwork: Home '/' route [] {"uid":"afb4349"}
+[2017-05-06 08:09:50] slim-app-chilenetwork.INFO: ChileNetwork: Desarrllo Web '/desarrollo-web' route [] {"uid":"ff54260"}
+[2017-05-06 08:09:53] slim-app-chilenetwork.INFO: ChileNetwork: Home '/' route [] {"uid":"822830f"}
+[2017-05-06 08:17:39] slim-app-chilenetwork.INFO: ChileNetwork: Home '/' route [] {"uid":"8d470b1"}
+[2017-05-06 08:17:42] slim-app-chilenetwork.INFO:  route: '/api-service'  [] {"uid":"2a9c233"}
+[2017-05-06 08:21:23] slim-app-chilenetwork.INFO:  route: '/api-service'  [] {"uid":"0bf0ed6"}
+[2017-05-06 08:23:20] slim-app-chilenetwork.INFO:  route: '/api-service'  [] {"uid":"7b66777"}
+[2017-05-06 08:23:40] slim-app-chilenetwork.INFO:  route: '/api-service'  [] {"uid":"becf42a"}
+[2017-05-06 08:23:45] slim-app-chilenetwork.INFO:  route: '/api-service'  [] {"uid":"b762a1a"}
+[2017-05-06 08:23:51] slim-app-chilenetwork.INFO:  route: '/api-service'  [] {"uid":"e3d9fc2"}
+[2017-05-06 08:24:00] slim-app-chilenetwork.INFO:  route: '/api-service'  [] {"uid":"ac62abb"}
+[2017-05-06 08:24:10] slim-app-chilenetwork.INFO:  route: '/api-service'  [] {"uid":"685a657"}
+[2017-05-06 08:30:00] slim-app-chilenetwork.INFO:  route: '/api-service'  [] {"uid":"d6efeba"}
+[2017-05-06 08:31:17] slim-app-chilenetwork.INFO:  route: '/api-service'  [] {"uid":"40afe61"}
+[2017-05-06 08:32:35] slim-app-chilenetwork.INFO:  route: '/api-service'  [] {"uid":"dbecec7"}
+[2017-05-06 08:33:07] slim-app-chilenetwork.INFO:  route: '/api-service'  [] {"uid":"14c13db"}
+[2017-05-06 08:33:57] slim-app-chilenetwork.INFO:  route: '/api-service'  [] {"uid":"8c857fa"}
+[2017-05-06 08:36:43] slim-app-chilenetwork.INFO:  route: '/api-service'  [] {"uid":"663d3f1"}
+[2017-05-06 08:39:29] slim-app-chilenetwork.INFO:  route: '/api-service'  [] {"uid":"42aedd3"}
+[2017-05-06 08:39:54] slim-app-chilenetwork.INFO:  route: '/api-service'  [] {"uid":"ac36075"}
+[2017-05-06 08:39:57] slim-app-chilenetwork.INFO:  route: '/api-service'  [] {"uid":"9c5c02e"}
+[2017-05-06 08:40:05] slim-app-chilenetwork.INFO:  route: '/api-service'  [] {"uid":"9f27a73"}
+[2017-05-06 08:40:15] slim-app-chilenetwork.INFO:  route: '/api-service'  [] {"uid":"d815e53"}
+[2017-05-06 08:41:21] slim-app-chilenetwork.INFO:  route: '/api-service'  [] {"uid":"acbc94e"}
+[2017-05-06 08:41:32] slim-app-chilenetwork.INFO:  route: '/api-service'  [] {"uid":"3f44c3d"}
+[2017-05-06 08:47:55] slim-app-chilenetwork.INFO:  route: '/api-service'  [] {"uid":"6a619ac"}
+[2017-05-06 08:48:56] slim-app-chilenetwork.INFO:  route: '/api-service'  [] {"uid":"d5f0ba0"}
+[2017-05-06 08:49:50] slim-app-chilenetwork.INFO:  route: '/api-service'  [] {"uid":"e30c6ef"}
+[2017-05-06 08:50:04] slim-app-chilenetwork.INFO:  route: '/api-service'  [] {"uid":"70e9fe9"}
+[2017-05-06 08:51:11] slim-app-chilenetwork.INFO:  route: '/api-service'  [] {"uid":"31a2a0d"}
+[2017-05-06 08:51:21] slim-app-chilenetwork.INFO:  route: '/api-service'  [] {"uid":"4abb6c4"}
+[2017-05-06 15:35:13] slim-app-chilenetwork.INFO: ChileNetwork: Home '/' route [] {"uid":"179c751"}
+[2017-05-06 15:38:47] slim-app-chilenetwork.INFO: ChileNetwork: Home '/' route [] {"uid":"39335b2"}
+[2017-05-06 15:38:48] slim-app-chilenetwork.INFO: ChileNetwork: Home '/' route [] {"uid":"a8d6a82"}
+[2017-05-06 15:39:18] slim-app-chilenetwork.INFO:  route: '/api-service'  [] {"uid":"35ffab1"}
+[2017-05-06 15:41:57] slim-app-chilenetwork.INFO:  route: '/api-service'  [] {"uid":"e992979"}
+[2017-05-06 15:44:38] slim-app-chilenetwork.INFO:  route: '/api-service'  [] {"uid":"9a58d5e"}
+[2017-05-06 17:49:19] slim-app-chilenetwork.INFO: ChileNetwork: Home '/' route [] {"uid":"026ec30"}
+[2017-05-06 17:50:47] slim-app-chilenetwork.INFO: ChileNetwork: Home '/' route [] {"uid":"55ec4b9"}
+[2017-05-06 18:11:16] slim-app-chilenetwork.INFO: ChileNetwork: Desarrllo Web '/desarrollo-web' route [] {"uid":"c5f527b"}
+[2017-05-06 18:11:24] slim-app-chilenetwork.INFO: ChileNetwork: Desarrllo Web '/desarrollo-web' route [] {"uid":"c25532a"}
+[2017-05-06 18:11:27] slim-app-chilenetwork.INFO: ChileNetwork: Home '/' route [] {"uid":"c43249d"}
+[2017-05-06 18:11:31] slim-app-chilenetwork.INFO: ChileNetwork: Desarrllo Web '/desarrollo-web' route [] {"uid":"a2e503e"}
+[2017-05-06 18:40:31] slim-app-chilenetwork.INFO: ChileNetwork: Home '/' route [] {"uid":"d91fcf2"}
+[2017-05-06 18:40:47] slim-app-chilenetwork.INFO: ChileNetwork: Home '/' route [] {"uid":"218c11c"}
+[2017-05-06 18:40:52] slim-app-chilenetwork.INFO: ChileNetwork: Desarrllo Web '/desarrollo-web' route [] {"uid":"8b6e954"}
+[2017-05-06 18:41:46] slim-app-chilenetwork.INFO: ChileNetwork: Home '/' route [] {"uid":"d6917c6"}
+[2017-05-06 18:42:22] slim-app-chilenetwork.INFO: ChileNetwork: Home '/' route [] {"uid":"18bae28"}
+[2017-05-06 18:49:00] slim-app-chilenetwork.INFO: Mi servicio: Ninos Servicio [] {"uid":"41c7247"}
+[2017-05-06 18:54:55] slim-app-chilenetwork.INFO: Mi servicio: Ninos Servicio [] {"uid":"756eca3"}
+[2017-05-06 18:55:49] slim-app-chilenetwork.INFO: Mi servicio: Ninos Servicio [] {"uid":"0d41605"}
+[2017-05-06 18:56:08] slim-app-chilenetwork.INFO: Mi servicio: Ninos Servicio [] {"uid":"dbfc572"}
+[2017-05-06 18:57:39] slim-app-chilenetwork.INFO: Mi servicio: Ninos Servicio [] {"uid":"39510f3"}
+[2017-05-06 18:58:19] slim-app-chilenetwork.INFO: Mi servicio: Ninos Servicio [] {"uid":"2d86588"}
+[2017-05-07 00:24:42] slim-app-chilenetwork.INFO: Mi servicio: Ninos Servicio [] {"uid":"9fec8a2"}
+[2017-05-08 00:38:12] slim-app-chilenetwork.INFO: Mi servicio: Ninos Servicio [] {"uid":"a6b069b"}
+[2017-05-08 00:38:12] slim-app-chilenetwork.INFO: Mi servicio: Ninos Servicio [] {"uid":"80bc593"}
+[2017-05-08 01:03:57] slim-app-chilenetwork.INFO: Mi servicio: Ninos Servicio [] {"uid":"c555a4b"}

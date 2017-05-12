@@ -1,0 +1,48 @@
+<?php
+// Routes
+
+$app->get('/', function ($request, $response, $args) {
+    // Sample log message
+    $this->logger->info("ChileNetwork: Home '/' route");
+
+    // Render index view
+    return $this->renderer->render($response, 'index.phtml', $args);
+});
+
+$app->get('/desarrollo-web', function ($request, $response, $args) {
+    // Sample log message
+    $this->logger->info("ChileNetwork: Desarrllo Web '/desarrollo-web' route");
+
+    // Render index view
+    return $this->renderer->render($response, 'desarrollo-web.phtml', $args);
+});
+
+$app->get('/api/callback/paypal_ipn_chilenetwork', function ($request, $response, $args) {
+    // Sample log message
+
+    $this->logger->info("ChileNetwork: Desarrllo Web '/desarrollo-web' route [$args]");
+
+    // Render index view
+    return $this->renderer->render($response, 'desarrollo-web.phtml', $args);
+});
+
+/*
+
+$app->get('/','HomeController:showHome');
+
+$app->get('/blog/[{name}]', function ($request, $response, $args) {
+    // Sample log message
+    $this->logger->info("Blog-Skeleton '/blog' route");
+
+    // Render index view
+    return $this->renderer->render($response, 'blog.phtml', $args);
+});
+
+$app->get('/nino/[{name}]', function ($request, $response, $args) {
+    // Sample log message
+    $this->logger->info("Niino-Skeleton '/nino' route");
+
+    // Render index view
+    return $this->renderer->render($response, 'nino.phtml', $args);
+});
+*/
